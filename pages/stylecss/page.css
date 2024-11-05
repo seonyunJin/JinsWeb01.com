@@ -13,3 +13,6 @@ footer p a {
     /* font-weight: 500; */
     font-style: italic;
 }
+.bg {
+    background-repeat:no-repeat;
+}
